@@ -27,7 +27,7 @@ console.log(numbers[3]+numbers[6]);
 
 /*
 Exercise #4
-Use the console.log() function and the array .pop() to add all the values in the array.
+Use the console.log() function and the array .pop() to add all the values in the array..
 */
 
 var sum = 0;
